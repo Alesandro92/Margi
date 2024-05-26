@@ -1,0 +1,17 @@
+{
+  "name": "margi",
+  "version": "1.0.0",
+  "description": "my first travel blog using react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Travel",
+    "Tours",
+    "India",
+    "Adventures"
+  ],
+  "author": "Manjeet Gupta",
+  "license": "ISC"
+}
